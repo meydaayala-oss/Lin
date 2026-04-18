@@ -1,2 +1,0 @@
-print("vvveeve")
-print("hueva")
